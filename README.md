@@ -1,2 +1,31 @@
 # Pesan-woi
 Pesan untukmu
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Oi 50k</title>
+    <style>
+        body {
+            background-color: #f0f0f0;
+            font-family: sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .box {
+            background: white;
+            padding: 20px 30px;
+            border-radius: 12px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.1);
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="box">
+        kapan oi 50k lama bet ni kalo blm ada 30 dah dpp
+    </div>
+</body>
+</html>
